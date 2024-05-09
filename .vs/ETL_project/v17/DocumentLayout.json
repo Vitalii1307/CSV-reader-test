@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\C#\\projects\\ETL_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6981C9F4-45DC-4909-B497-596D98B77AFA}|ETL_project\\ETL_project.csproj|d:\\programming\\c#\\projects\\etl_project\\etl_project\\dataaccess\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6981C9F4-45DC-4909-B497-596D98B77AFA}|ETL_project\\ETL_project.csproj|solutionrelative:etl_project\\dataaccess\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6981C9F4-45DC-4909-B497-596D98B77AFA}|ETL_project\\ETL_project.csproj|d:\\programming\\c#\\projects\\etl_project\\etl_project\\operationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6981C9F4-45DC-4909-B497-596D98B77AFA}|ETL_project\\ETL_project.csproj|solutionrelative:etl_project\\operationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6981C9F4-45DC-4909-B497-596D98B77AFA}|ETL_project\\ETL_project.csproj|d:\\programming\\c#\\projects\\etl_project\\etl_project\\etlapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6981C9F4-45DC-4909-B497-596D98B77AFA}|ETL_project\\ETL_project.csproj|solutionrelative:etl_project\\etlapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6981C9F4-45DC-4909-B497-596D98B77AFA}|ETL_project\\ETL_project.csproj|d:\\programming\\c#\\projects\\etl_project\\etl_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6981C9F4-45DC-4909-B497-596D98B77AFA}|ETL_project\\ETL_project.csproj|solutionrelative:etl_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6981C9F4-45DC-4909-B497-596D98B77AFA}|ETL_project\\ETL_project.csproj|d:\\programming\\c#\\projects\\etl_project\\etl_project\\interfaces\\ioperationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6981C9F4-45DC-4909-B497-596D98B77AFA}|ETL_project\\ETL_project.csproj|solutionrelative:etl_project\\interfaces\\ioperationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6981C9F4-45DC-4909-B497-596D98B77AFA}|ETL_project\\ETL_project.csproj|d:\\programming\\c#\\projects\\etl_project\\etl_project\\enities\\duplicatetrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6981C9F4-45DC-4909-B497-596D98B77AFA}|ETL_project\\ETL_project.csproj|solutionrelative:etl_project\\enities\\duplicatetrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6981C9F4-45DC-4909-B497-596D98B77AFA}|ETL_project\\ETL_project.csproj|d:\\programming\\c#\\projects\\etl_project\\etl_project\\enities\\csvrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6981C9F4-45DC-4909-B497-596D98B77AFA}|ETL_project\\ETL_project.csproj|solutionrelative:etl_project\\enities\\csvrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6981C9F4-45DC-4909-B497-596D98B77AFA}|ETL_project\\ETL_project.csproj|d:\\programming\\c#\\projects\\etl_project\\etl_project\\enities\\cabtrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6981C9F4-45DC-4909-B497-596D98B77AFA}|ETL_project\\ETL_project.csproj|solutionrelative:etl_project\\enities\\cabtrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6981C9F4-45DC-4909-B497-596D98B77AFA}|ETL_project\\ETL_project.csproj|d:\\programming\\c#\\projects\\etl_project\\etl_project\\etl_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6981C9F4-45DC-4909-B497-596D98B77AFA}|ETL_project\\ETL_project.csproj|solutionrelative:etl_project\\etl_project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperationHandler.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\projects\\ETL_project\\ETL_project\\OperationHandler.cs",
+              "RelativeDocumentMoniker": "ETL_project\\OperationHandler.cs",
+              "ToolTip": "D:\\Programming\\C#\\projects\\ETL_project\\ETL_project\\OperationHandler.cs",
+              "RelativeToolTip": "ETL_project\\OperationHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:44:28.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\projects\\ETL_project\\ETL_project\\DataAccess\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "ETL_project\\DataAccess\\MyDbContext.cs",
+              "ToolTip": "D:\\Programming\\C#\\projects\\ETL_project\\ETL_project\\DataAccess\\MyDbContext.cs",
+              "RelativeToolTip": "ETL_project\\DataAccess\\MyDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:00:21.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOperationHandler.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\projects\\ETL_project\\ETL_project\\Interfaces\\IOperationHandler.cs",
+              "RelativeDocumentMoniker": "ETL_project\\Interfaces\\IOperationHandler.cs",
+              "ToolTip": "D:\\Programming\\C#\\projects\\ETL_project\\ETL_project\\Interfaces\\IOperationHandler.cs",
+              "RelativeToolTip": "ETL_project\\Interfaces\\IOperationHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:43:47.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\projects\\ETL_project\\ETL_project\\Program.cs",
+              "RelativeDocumentMoniker": "ETL_project\\Program.cs",
+              "ToolTip": "D:\\Programming\\C#\\projects\\ETL_project\\ETL_project\\Program.cs",
+              "RelativeToolTip": "ETL_project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:40:44.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ETLApplication.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\projects\\ETL_project\\ETL_project\\ETLApplication.cs",
+              "RelativeDocumentMoniker": "ETL_project\\ETLApplication.cs",
+              "ToolTip": "D:\\Programming\\C#\\projects\\ETL_project\\ETL_project\\ETLApplication.cs",
+              "RelativeToolTip": "ETL_project\\ETLApplication.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:42:27.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DuplicateTrip.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\projects\\ETL_project\\ETL_project\\Enities\\DuplicateTrip.cs",
+              "RelativeDocumentMoniker": "ETL_project\\Enities\\DuplicateTrip.cs",
+              "ToolTip": "D:\\Programming\\C#\\projects\\ETL_project\\ETL_project\\Enities\\DuplicateTrip.cs",
+              "RelativeToolTip": "ETL_project\\Enities\\DuplicateTrip.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvwkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:28:35.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CsvRecord.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\projects\\ETL_project\\ETL_project\\Enities\\CsvRecord.cs",
+              "RelativeDocumentMoniker": "ETL_project\\Enities\\CsvRecord.cs",
+              "ToolTip": "D:\\Programming\\C#\\projects\\ETL_project\\ETL_project\\Enities\\CsvRecord.cs",
+              "RelativeToolTip": "ETL_project\\Enities\\CsvRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:29:10.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CabTrip.cs",
+              "DocumentMoniker": "D:\\Programming\\C#\\projects\\ETL_project\\ETL_project\\Enities\\CabTrip.cs",
+              "RelativeDocumentMoniker": "ETL_project\\Enities\\CabTrip.cs",
+              "ToolTip": "D:\\Programming\\C#\\projects\\ETL_project\\ETL_project\\Enities\\CabTrip.cs",
+              "RelativeToolTip": "ETL_project\\Enities\\CabTrip.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T20:27:45.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ETL_project",
+              "DocumentMoniker": "D:\\Programming\\C#\\projects\\ETL_project\\ETL_project\\ETL_project.csproj",
+              "RelativeDocumentMoniker": "ETL_project\\ETL_project.csproj",
+              "ToolTip": "D:\\Programming\\C#\\projects\\ETL_project\\ETL_project\\ETL_project.csproj",
+              "RelativeToolTip": "ETL_project\\ETL_project.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-08T19:44:56.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
