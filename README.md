@@ -25,3 +25,6 @@ CREATE TABLE CabTrips (
 ```
 The number of rows in the table is visible immediately after launching the application in the console:
 ![image](https://github.com/Vitalii1307/CSV-reader-test/assets/70515154/74f8f6f3-fc41-4519-87a1-dcecb03b0fd2)
+
+
+Для підключення до своєї бази даних необхідно замінити параметри конфігурації у методі `OnConfiguring` за шляхом: `ETL_project\DataAccess\MyDbContext.cs`
