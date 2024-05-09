@@ -1,6 +1,6 @@
 # CSV-reader-test
 
-You can run this project locally
+You can run this project locally. File with the main logic: OperationHandler.cs
 
 Here is a script to create a database and tables:
 ```
