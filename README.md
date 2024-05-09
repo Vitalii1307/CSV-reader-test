@@ -21,7 +21,7 @@ CREATE TABLE CabTrips (
     DOLocationID INT NOT NULL,
     FareAmount DECIMAL(10, 2) NOT NULL,
     TipAmount DECIMAL(10, 2) NOT NULL
-);```
-
+);
+```
 The number of rows in the table is visible immediately after launching the application in the console:
 ![image](https://github.com/Vitalii1307/CSV-reader-test/assets/70515154/74f8f6f3-fc41-4519-87a1-dcecb03b0fd2)
