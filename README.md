@@ -1,6 +1,6 @@
 # CSV-reader-test
 
-You can run this project locally. File with the main logic: `ETL_project/OperationHandler.cs`
+You can run this project locally. File with the main logic: `ETL_project\OperationHandler.cs`
 
 Here is a script to create a database and tables:
 ```
