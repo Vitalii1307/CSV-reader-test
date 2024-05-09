@@ -3,15 +3,13 @@
 You can run this project locally
 
 Here is a script to create a database and tables:
-`-- Create the database
+`
 CREATE DATABASE etl_db;
 GO
 
--- Use the database
 USE etl_db;
 GO
 
--- Create the CabTrips table
 CREATE TABLE CabTrips (
     Id INT PRIMARY KEY IDENTITY,
     PickupDateTime DATETIME NOT NULL,
